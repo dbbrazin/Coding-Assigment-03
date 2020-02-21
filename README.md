@@ -2,8 +2,8 @@
 4 Parts - Due Thursday February 27th
 
 * Starting point:[Starting Source Code]
-* Done in class: [Part 1][]
-* Done in class: [Part 2][]
+* [Part 1][] _Done in class_
+* [Part 2][] _Done in class_
 * [Part 3][]
 * [Part 4][]
 
