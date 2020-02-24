@@ -363,7 +363,6 @@ It should look like this:
 ```swift
 // Hide the keyboard.
 captionTextField.resignFirstResponder()
-}
 ```
 This code ensures that if the user taps the image view while typing in the text field, the keyboard is dismissed properly.
 
