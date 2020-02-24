@@ -1,6 +1,6 @@
 
 ## CIS-444: Coding Assignment 03
-### Due End of Day Thurs. 2/27
+### Due End of Day Friday. 2/28
 
 ## Learning Objectives
 
